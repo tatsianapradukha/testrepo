@@ -1,2 +1,2 @@
 #python code
-print ("python code testing")
+print ("python . code testing")
